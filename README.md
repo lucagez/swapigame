@@ -1,7 +1,7 @@
 
-# Star Wars Game
+# Swapigame
 
-> A little SWAPI game by Luca Gesmundo
+> A little Star Wars Game by Luca Gesmundo
 
 # Demo
 
