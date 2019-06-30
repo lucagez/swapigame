@@ -11,7 +11,7 @@ A live demo of the game is hosted at:
 
 # Installation
 
-- `git clone` this repo
+- `git clone https://github.com/lucagez/swapigame`
 - `npm install`
 
 # Develop
