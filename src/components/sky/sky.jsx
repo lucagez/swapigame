@@ -33,7 +33,6 @@ const Sky = ({ children }) => {
           position: 'absolute',
           width: '100%',
           height: '100vh',
-          zIndex: '-1',
         }}
         onMouseMove={({ clientX: x, clientY: y }) => set({ xy: [x, y] })}
       >

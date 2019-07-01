@@ -39,16 +39,10 @@ const Game = ({ is, cards }) => {
   const { fight: fightProp } = props[is];
   const strongest = selectStrongest[is];
 
-  // Subset of `data`
-  // 6 random elements:
-  // => 5 cards that user can choose from
-  // => 1 opponent card
   const [winner, setWinner] = useState();
   const [player, setPlayer] = useState(selectSix(cards));
   const [opponent, setOpponent] = useState({});
-
   const [choosen, setChoosen] = useState({});
-
   const [msg, setMsg] = useState();
 
   const fight = () => {

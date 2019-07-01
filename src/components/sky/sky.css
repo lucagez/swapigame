@@ -1,6 +1,7 @@
 .follower {
   width: 128px;
   height: 50px;
+  z-index: -1;
   background-size: 100%;
   background-image: url("https://png2.kisspng.com/sh/c262f283ff16c2288a67e16da8aab097/L0KzQYm3VME0N5VtiZH0aYP2gLBuTgN1aaMyfNd8dILyibb5TgN1aaMyj9N7cz33eba0hvlocKVqip98dHH1g7nwkL10fJJ3Relqcj24cbW3UvVlbWVre6oEND62SYO4Ucg1OmI6SqUAOUK8Qoe6UsY5NqFzf3==/kisspng-star-destroyer-star-wars-tie-fighter-starship-star-war-5ad02ede4fc894.3921184215235929263268.png");
 }
